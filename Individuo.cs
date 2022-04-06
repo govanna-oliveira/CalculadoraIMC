@@ -1,1 +1,3 @@
-public class Individuo
+public class Individuo {
+    
+}
